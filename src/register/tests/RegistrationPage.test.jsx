@@ -559,7 +559,7 @@ describe('RegistrationPage', () => {
       });
 
       const registrationPage = mount(reduxWrapper(<IntlRegistrationPage {...props} />));
-      expect(registrationPage.find('div.opt-checkbox').length).toEqual(1);
+      expect(registrationPage.find('div.checkbox-input').length).toEqual(1);
 
       mergeConfig({
         MARKETING_EMAILS_OPT_IN: '',
