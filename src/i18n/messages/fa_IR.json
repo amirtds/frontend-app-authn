@@ -112,7 +112,7 @@
     "recommendation.page.heading": "تعدادی توصیه برای شروع داریم.",
     "recommendation.skip.button": "اکنون رد کنید",
     "register.page.title": "ثبت نام | {siteName}",
-    "registration.fullname.label": "نام کامل",
+    "registration.fullname.label": "نام و نام خانوادگی - فقط با حروف لاتین",
     "registration.email.label": "ایمیل",
     "registration.username.label": "نام کاربری عمومی",
     "registration.password.label": "رمز عبور",
