@@ -246,8 +246,8 @@ const messages = defineMessages({
   },
   'registration.field.education.levels.m': {
     id: 'registration.field.education.levels.m',
-    defaultMessage: "Master's or professional degree",
-    description: "Selected by the user if their highest level of education is a master's or professional degree from a college or university.",
+    defaultMessage: "Master's",
+    description: "Selected by the user if their highest level of education is a master's from a college or university.",
   },
   'registration.field.education.levels.b': {
     id: 'registration.field.education.levels.b',

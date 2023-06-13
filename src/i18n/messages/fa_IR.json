@@ -118,6 +118,7 @@
     "registration.password.label": "رمز عبور",
     "registration.country.label": "کشور / منطقه",
     "registration.opt.in.label": "موافقم که {siteName} می‌تواند پیام‌های بازاریابی برایم ارسال کند.",
+    "registration.field.education.levels.m": "کارشناسی ارشد",
     "help.text.name": "این نام برای گواهی‌نامه‌هایی که دریافت می‌کنید، استفاده می‌شود.",
     "help.text.username.1": "نامی که در دوره های خود شناسایی می کند.",
     "help.text.username.2": "این بعداً قابل تغییر نیست.",
