@@ -24,7 +24,7 @@ const TermsOfService = (props) => {
       >
         <FormattedMessage
           id="register.page.terms.of.service"
-          defaultMessage="I agree to the {platformName} {termsOfService}"
+          defaultMessage="با ایجاد حساب کاربری، شما تأیید می‌کنید که ایران آکادمیا اطلاعات شما را با هیچ‌کس دیگری به اشتراک نمی‌گذارد و ممکن است از ایمیل شما تنها برای اطلاع‌رسانی درباره سایر محصولات آموزشی ایران آکادمیا استفاده کند."
           description="Text that appears on registration form stating terms of service.
                        It is a legal document that users must agree to."
           values={{
