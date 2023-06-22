@@ -21,6 +21,7 @@ const TermsOfService = (props) => {
         name="terms_of_service"
         value={value}
         onChange={onChangeHandler}
+        style={{ width: '2.5rem' }}
       >
         <FormattedMessage
           id="register.page.terms.of.service"
