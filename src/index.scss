@@ -5,3 +5,9 @@
 
 @import "@edx/frontend-component-cookie-policy-banner/build/_cookie-policy-banner";
 @import "sass/style";
+
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap');
+
+* {
+    font-family: 'Vazirmatn', sans-serif !important;
+}
